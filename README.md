@@ -1,9 +1,5 @@
 # 👋💀 Hi, I’m Software Engineer.
-
-`Software Developer | B.S. in Programming Student | Cybersecurity Enthusiast`
-
 ---
-
 ### 🛡️ About Me
 - 🎓 Currently pursuing a **Degree in Programming (Licenciatura en Programación)**.
 - 🛡️ Passionate about **Cybersecurity** and driven by a **Human-Centered Security Mindset**.
