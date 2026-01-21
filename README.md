@@ -1,4 +1,4 @@
-# 💀 entorpecimiento
+# 👋💀 Hi, I’m Software Engineer.
 
 `Software Developer | B.S. in Programming Student | Cybersecurity Enthusiast`
 
