@@ -1,6 +1,6 @@
-# 💀 Hi, I'm entorpecimiento.
+# 💀 entorpecimiento
 
-🚀 **B.S. in Programming Student** focused on building secure digital ecosystems and efficient software solutions.
+`Software Developer | B.S. in Programming Student | Cybersecurity Enthusiast`
 
 ---
 
