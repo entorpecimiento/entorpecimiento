@@ -1,16 +1,26 @@
-## Hi there 👋
+# 💀 Hi, I'm entorpecimiento.
 
-<!--
-**entorpecimiento/entorpecimiento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **B.S. in Programming Student** focused on building secure digital ecosystems and efficient software solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ About Me
+- 🎓 Currently pursuing a **Degree in Programming (Licenciatura en Programación)**.
+- 🛡️ Passionate about **Cybersecurity** and driven by a **Human-Centered Security Mindset**.
+- 💻 Mastering **Java** logic and **Web Technologies** (HTML5, CSS3, JS).
+
+### 🎯 Learning Goals
+- 🚀 Aiming to master **SAP** and **S/4HANA** ASAP to integrate programming logic with enterprise resource planning.
+
+### 🛠️ Technical Stack
+- **Languages:** Java, JavaScript, HTML5, CSS3.
+- **Environments:** NetBeans, VS Code, Git/GitHub.
+- **Key Projects:** High-graded academic developments (10/10 & 9/10).
+
+### 📫 Contact me:
+📧 **[contact.job.rd@gmail.com](mailto:contact.job.rd@gmail.com)**
+
+---
+
+### 📊 GitHub Stats
+![entorpecimiento's GitHub stats](https://github-readme-stats.vercel.app/api?username=entorpecimiento&show_icons=true&theme=dark)
