@@ -19,8 +19,3 @@
 
 ### 📫 Contact me:
 📧 **[contact.job.rd@gmail.com](mailto:contact.job.rd@gmail.com)**
-
----
-
-### 📊 GitHub Stats
-![entorpecimiento's GitHub stats](https://github-readme-stats.vercel.app/api?username=entorpecimiento&show_icons=true&theme=dark)
