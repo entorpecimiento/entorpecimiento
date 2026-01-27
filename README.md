@@ -25,6 +25,7 @@
 
 #### 🌐 Full-Stack & Web Development
 * **[Full-Stack Notes Manager](https://github.com/entorpecimiento/fullstack-notes-app):** A complete SPA built with NestJS and React, featuring layered architecture, SQLite persistence, and automated deployment.
+* **[Secure Pass UI](https://github.com/entorpecimiento/secure-pass-ui):** A security-focused web tool for high-entropy password generation. Built with JS/HTML/CSS, it implements real-time randomization to ensure cryptographic strength. **[Live Demo!](https://entorpecimiento.github.io/secure-pass-ui/)**
 * **[GameForce Tournaments](https://github.com/entorpecimiento/gameforcetournaments):** Social gaming digital ecosystem utilizing JavaScript for user access control and dynamic fundraising form deployment.
 * **[GangFestival Web](https://github.com/entorpecimiento/gangfestival-page):** Comprehensive music festival website developed with semantic HTML5 and CSS3.
 
@@ -36,7 +37,7 @@
 #### ☕ Java & Logic Systems
 * **[Salary Calculator Java](https://github.com/entorpecimiento/salary-Calculator-Java):** Java-based payroll module that automates salary calculations for retail staff, processing bonuses and legal deductions.
 * **[Java Control Flow Logic](https://github.com/entorpecimiento/java-beginner-loop-limit):** Implementation for handling repetitive control flows, featuring user-defined sequences and input validation.
-
+  
 ---
 
 ### 📫 Connect with me
