@@ -1,17 +1,19 @@
 # 🚀 Software Developer & Student
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=entorpecimiento&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=entorpecimiento&show_icons=true&theme=radical&hide_border=true" />
+</div>
+
+### 🛠️ Technical Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
 ### 👨‍💻 About Me
 * 🎓 **B.S. in Programming Student**, focused on building secure and efficient software solutions.
 * 🛡️ **Cybersecurity Enthusiast** with a human-centered security mindset.
 * 💼 Currently developing projects and exploring enterprise-level architectures.
-
----
-
-### 🛠️ Technical Stack & Tools
-* **Languages:** Java, Python, JavaScript (ES6+), HTML5, CSS3.
-* **Frameworks & Libraries:** NestJS, React, Node.js.
-* **Databases:** SQLite, PostgreSQL (via TypeORM).
-* **Environments:** VS Code, NetBeans, Git & GitHub.
 
 ---
 
@@ -27,15 +29,15 @@
 * **[Full-Stack Notes Manager](https://github.com/entorpecimiento/fullstack-notes-app):** A complete SPA built with NestJS and React, featuring layered architecture, SQLite persistence, and automated deployment.
 * **[Secure Pass UI](https://github.com/entorpecimiento/secure-pass-ui):** A security-focused web tool for high-entropy password generation. Built with JS/HTML/CSS, it implements real-time randomization to ensure cryptographic strength. **[Live Demo!](https://entorpecimiento.github.io/secure-pass-ui/)**
 * **[GameForce Tournaments](https://github.com/entorpecimiento/gameforcetournaments):** Social gaming digital ecosystem utilizing JavaScript for user access control and dynamic fundraising form deployment. **[Live Demo!](https://entorpecimiento.github.io/gameforcetournaments/)**
-* **[GangFestival Web](https://github.com/entorpecimiento/gangfestival-page):** Comprehensive music festival website developed with semantic HTML5 and CSS3 to structure multimedia content and contact forms. **[Live Demo!](https://entorpecimiento.github.io/gangfestival-page/)**
+* **[GangFestival Web](https://github.com/entorpecimiento/gangfestival-page):** Comprehensive music festival website developed with semantic HTML5 and CSS3. **[Live Demo!](https://entorpecimiento.github.io/gangfestival-page/)**
 
 #### 🛡️ Cybersecurity & Python Tools
 * **[Crypto Password Generator](https://github.com/entorpecimiento/cryptopass-generator):** A Python-built security tool that creates high-entropy random passwords using complex character sets.
-* **[Network Port Scanners](https://github.com/entorpecimiento/ports-scanners):** Socket-based network discovery ecosystem utilizing Python for automated TCP port auditing and real-time connection status monitoring.
-* **[Hash Cracker](https://github.com/entorpecimiento/hash-cracker):** Cryptographic analysis utility engineered in Python for SHA-256 hash reversal and dictionary-based security auditing.
+* **[Network Port Scanners](https://github.com/entorpecimiento/ports-scanners):** Socket-based network discovery ecosystem utilizing Python for automated TCP port auditing.
+* **[Hash Cracker](https://github.com/entorpecimiento/hash-cracker):** Cryptographic analysis utility engineered in Python for SHA-256 hash reversal and security auditing.
 
 #### ☕ Java & Logic Systems
-* **[Salary Calculator Java](https://github.com/entorpecimiento/salary-Calculator-Java):** Java-based payroll module that automates salary calculations for retail staff, processing bonuses and legal pension deductions.
+* **[Salary Calculator Java](https://github.com/entorpecimiento/salary-Calculator-Java):** Java-based payroll module that automates salary calculations, processing bonuses and legal pension deductions.
 * **[Java Control Flow Logic](https://github.com/entorpecimiento/java-beginner-loop-limit):** Java implementation for handling repetitive control flows, featuring user-defined numeric sequences and input validation.
   
 ---
