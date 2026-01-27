@@ -2,7 +2,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=entorpecimiento&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=entorpecimiento&show_icons=true&theme=radical&hide_border=true" />
 </div>
 
 ---
