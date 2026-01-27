@@ -23,14 +23,19 @@
 
 ### 📁 Featured Projects
 
-* **[Full-Stack Notes Manager](https://github.com/entorpecimiento/fullstack-notes-app):** A complete SPA built with NestJS and React, featuring layered architecture and automated deployment.
+#### 🌐 Full-Stack & Web Development
+* **[Full-Stack Notes Manager](https://github.com/entorpecimiento/fullstack-notes-app):** A complete SPA built with NestJS and React, featuring layered architecture, SQLite persistence, and automated deployment.
 * **[GameForce Tournaments](https://github.com/entorpecimiento/gameforcetournaments):** Social gaming digital ecosystem utilizing JavaScript for user access control and dynamic fundraising form deployment.
-* **[Network Port Scanners](https://github.com/entorpecimiento/ports-scanners):** Socket-based network discovery ecosystem utilizing Python for automated TCP port auditing and real-time connection status monitoring.
-* **[GangFestival Web](https://github.com/entorpecimiento/gangfestival-page):** Comprehensive music festival website developed with semantic HTML5 and CSS3 to structure multimedia content and contact forms.
-* **[Salary Calculator Java](https://github.com/entorpecimiento/salary-Calculator-Java):** Java-based payroll module that automates salary calculations for retail staff, processing bonuses and legal pension deductions.
-* **[Hash Cracker](https://github.com/entorpecimiento/hash-cracker):** Cryptographic analysis utility engineered in Python for SHA-256 hash reversal and dictionary-based security auditing.
-* **[Secure Password Generator](https://github.com/entorpecimiento/password-generator):** A Python-built security tool that creates high-entropy random passwords using complex character sets.
-* **[Java Control Flow Logic](https://github.com/entorpecimiento/java-beginner-loop-limit):** Implementation for handling repetitive control flows, featuring user-defined numeric sequences and input validation.
+* **[GangFestival Web](https://github.com/entorpecimiento/gangfestival-page):** Comprehensive music festival website developed with semantic HTML5 and CSS3.
+
+#### 🛡️ Cybersecurity & Python Tools
+* **[Crypto Password Generator](https://github.com/entorpecimiento/cryptopass-generator):** A Python-built security tool that creates high-entropy random passwords using complex character sets.
+* **[Network Port Scanners](https://github.com/entorpecimiento/ports-scanners):** Socket-based network discovery ecosystem utilizing Python for automated TCP port auditing.
+* **[Hash Cracker](https://github.com/entorpecimiento/hash-cracker):** Cryptographic analysis utility engineered in Python for SHA-256 hash reversal and dictionary-based auditing.
+
+#### ☕ Java & Logic Systems
+* **[Salary Calculator Java](https://github.com/entorpecimiento/salary-Calculator-Java):** Java-based payroll module that automates salary calculations for retail staff, processing bonuses and legal deductions.
+* **[Java Control Flow Logic](https://github.com/entorpecimiento/java-beginner-loop-limit):** Implementation for handling repetitive control flows, featuring user-defined sequences and input validation.
 
 ---
 
