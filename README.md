@@ -3,7 +3,6 @@
 ### 👨‍💻 About Me
 * 🎓 **B.S. in Programming Student**, focused on building secure and efficient software solutions.
 * 🛡️ **Cybersecurity Enthusiast** with a human-centered security mindset.
-* 🏫 **Professional Educator**, bringing strong communication, logic, and pedagogical skills to the development world.
 * 💼 Currently developing Full-Stack projects and exploring enterprise-level architectures.
 
 ---
@@ -30,4 +29,4 @@
 
 ### 📫 Connect with me
 * 📧 **Email:** [contact.job.rd@gmail.com](mailto:contact.job.rd@gmail.com)
-* 📍 Based in Buenos Aires, Argentina
+* 📍 Argentina
