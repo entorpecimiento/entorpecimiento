@@ -36,7 +36,6 @@
 </div>
 
 ---
----
 
 ### 📫 Connect with me
 * 📧 **Email:** [contact.job.rd@gmail.com](mailto:contact.job.rd@gmail.com)
