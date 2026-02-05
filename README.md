@@ -29,11 +29,6 @@
 #### ☕ Java & Logic Systems
 * **[Salary Calculator Java](https://github.com/entorpecimiento/salary-Calculator-Java):** Java-based payroll module that automates salary calculations, processing bonuses and legal pension deductions.
 * **[Java Control Flow Logic](https://github.com/entorpecimiento/java-beginner-loop-limit):** Java implementation for handling repetitive control flows, featuring user-defined numeric sequences and input validation.
-  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=entorpecimiento&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=entorpecimiento&show_icons=true&theme=radical&hide_border=true" />
-</div>
 
 ---
 
