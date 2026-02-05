@@ -8,10 +8,10 @@
 
 ---
 
-### 🎯 Learning Roadmap
-* 🚀 **Enterprise Systems:** Mastering the integration of programming logic with ERP solutions like **SAP S/4HANA**.
-* 🛡️ **Security:** Deepening knowledge in **Penetration Testing**, network auditing, and cryptography.
-
+### ⚙️ DevOps & Security Roadmap
+* ♾️ **DevOps Culture:** Mastering **CI/CD pipelines**, containerization with **Docker**, and Infrastructure as Code (IaC) to bridge the gap between development and operations.
+* 🛡️ **DevSecOps:** Integrating automated security testing into the development lifecycle and strengthening cloud infrastructure defense.
+  
 ---
 
 ### 📁 Featured Projects
