@@ -1,37 +1,45 @@
-# 🚀 Software Developer & Student
+# 🚀 Rubén Díaz | Software Developer & Cybersecurity Student
 
 ### 👨‍💻 About Me
-* 🎓 **B.S. in Programming Student**, focused on building secure and efficient software solutions.
-* 🛡️ **Cybersecurity Enthusiast** with a human-centered security mindset.
-* 💼 Currently developing projects and exploring enterprise-level architectures.
+* 🎓 **B.S. in Cybersecurity Student** at **UNAHUR**, focused on building secure, scalable, and efficient software.
+* 🛡️ **Cybersecurity Enthusiast** with a human-centered security mindset and a focus on secure coding practices.
+* 💻 Technical expertise in **Java, PHP, JavaScript, HTML, and CSS**.
+* 📱 Currently developing mobile solutions with **Flutter** and exploring enterprise-level architectures.
 
 ---
 
 ### 🎯 Learning Roadmap
-* 🚀 **Enterprise Systems:** Aiming to master **SAP S/4HANA** to integrate programming logic with ERP solutions.
-* 🛡️ **Security:** Deepening knowledge in penetration testing and secure coding practices.
+* 🚀 **Enterprise Systems:** Mastering the integration of programming logic with ERP solutions like **SAP S/4HANA**.
+* 🛡️ **Security:** Deepening knowledge in **Penetration Testing**, network auditing, and cryptography.
 
 ---
 
 ### 📁 Featured Projects
 
-#### 🌐 Full-Stack & Web Development
-* **[Full-Stack Notes Manager](https://github.com/entorpecimiento/fullstack-notes-app):** A complete SPA built with NestJS and React, featuring layered architecture, SQLite persistence, and automated deployment.
-* **[Secure Pass UI](https://github.com/entorpecimiento/secure-pass-ui):** A security-focused web tool for high-entropy password generation. Built with JS/HTML/CSS, it implements real-time randomization to ensure cryptographic strength. **[Live Demo!](https://entorpecimiento.github.io/secure-pass-ui/)**
-* **[GameForce Tournaments](https://github.com/entorpecimiento/gameforcetournaments):** Social gaming digital ecosystem utilizing JavaScript for user access control and dynamic fundraising form deployment. **[Live Demo!](https://entorpecimiento.github.io/gameforcetournaments/)**
-* **[GangFestival Web](https://github.com/entorpecimiento/gangfestival-page):** Comprehensive music festival website developed with semantic HTML5 and CSS3. **[Live Demo!](https://entorpecimiento.github.io/gangfestival-page/)**
-
 #### 🛡️ Cybersecurity & Python Tools
-* **[Crypto Password Generator](https://github.com/entorpecimiento/cryptopass-generator):** A Python-built security tool that creates high-entropy random passwords using complex character sets.
-* **[Network Port Scanners](https://github.com/entorpecimiento/ports-scanners):** Socket-based network discovery ecosystem utilizing Python for automated TCP port auditing.
-* **[Hash Cracker](https://github.com/entorpecimiento/hash-cracker):** Cryptographic analysis utility engineered in Python for SHA-256 hash reversal and security auditing.
+* **[Network Port Scanners](https://github.com/entorpecimiento/ports-scanners):** Socket-based network discovery ecosystem for automated TCP port auditing.
+* **[Hash Cracker](https://github.com/entorpecimiento/hash-cracker):** Cryptographic utility engineered in Python for SHA-256 hash reversal and security auditing.
+* **[Crypto Password Generator](https://github.com/entorpecimiento/cryptopass-generator):** High-entropy security tool that generates random passwords using complex character sets.
+
+#### 🌐 Full-Stack & Web Development
+* **[Full-Stack Notes Manager](https://github.com/entorpecimiento/fullstack-notes-app):** Complete SPA built with **NestJS and React**, featuring layered architecture and SQLite persistence.
+* **[Secure Pass UI](https://github.com/entorpecimiento/secure-pass-ui):** Security-focused web tool for high-entropy password generation with real-time randomization. **[Live Demo!](https://entorpecimiento.github.io/secure-pass-ui/)**
+* **[GameForce Tournaments](https://github.com/entorpecimiento/gameforcetournaments):** Digital ecosystem for gaming featuring user access control and dynamic form deployment.
 
 #### ☕ Java & Logic Systems
-* **[Salary Calculator Java](https://github.com/entorpecimiento/salary-Calculator-Java):** Java-based payroll module that automates salary calculations, processing bonuses and legal pension deductions.
-* **[Java Control Flow Logic](https://github.com/entorpecimiento/java-beginner-loop-limit):** Java implementation for handling repetitive control flows, featuring user-defined numeric sequences and input validation.
+* **[Salary Calculator](https://github.com/entorpecimiento/salary-Calculator-Java):** Java-based payroll module that automates salary calculations, bonuses, and legal deductions.
+* **[Java Control Flow Logic](https://github.com/entorpecimiento/java-beginner-loop-limit):** Implementation for handling repetitive control flows and input validation.
+
+---
+
+### 🛠️ Tech Stack
+* **Languages:** Java, Python, PHP, JavaScript (ES6+), Dart (Flutter).
+* **Web:** React, NestJS, HTML5, CSS3.
+* **Security:** Port Scanning, Cryptographic Analysis, Secure Coding.
 
 ---
 
 ### 📫 Connect with me
 * 📧 **Email:** [contact.job.rd@gmail.com](mailto:contact.job.rd@gmail.com)
-* 📍 Argentina
+* 📍 Buenos Aires, Argentina
+* 🐙 **GitHub:** [entorpecimiento](https://github.com/entorpecimiento)
