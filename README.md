@@ -1,4 +1,4 @@
-# 🚀 Rubén Díaz | Software Developer & Cybersecurity Student
+# Software Developer & Cybersecurity Student
 
 ### 👨‍💻 About Me
 * 🎓 **B.S. in Cybersecurity Student** at **UNAHUR**, focused on building secure, scalable, and efficient software.
