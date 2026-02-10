@@ -1,19 +1,21 @@
-<h1 align="center">Software Developer & Cybersecurity Student</h1>
+<div align="center">
+  <h1>Software Developer & Cybersecurity Student</h1>
+</div>
 
-<table border="0" width="100%">
-    <tr>
-        <td align="left">
-            <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-            <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-            <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-        </td>
-        <td align="right">
-            <img src="https://komarev.com/ghpvc/?username=entorpecimiento&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
-        </td>
-    </tr>
+<table width="100%" style="border: 0; border-collapse: collapse;">
+  <tr style="border: 0;">
+    <td width="70%" align="left" style="border: 0;">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+    </td>
+    <td width="30%" align="right" style="border: 0;">
+      <img src="https://komarev.com/ghpvc/?username=entorpecimiento&color=0e75b6&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+    </td>
+  </tr>
 </table>
 
 ---
@@ -52,12 +54,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=entorpecimiento&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="entorpecimiento's GitHub stats" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=entorpecimiento&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=entorpecimiento&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=entorpecimiento&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+</div>
 
 ---
 
