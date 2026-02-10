@@ -62,9 +62,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=entorpecimiento&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="General Stats" />
+  
+  <br/> <br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=entorpecimiento&theme=radical&hide_border=true" alt="Streak Stats" />
-  <br><br>
+  
+  <br/><br/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=entorpecimiento&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
