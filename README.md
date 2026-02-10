@@ -56,14 +56,19 @@
 
 <hr/>
 
+### 🛠️ Languages and Tools
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,dart,flutter,react,nestjs,docker,git,github,linux,vscode,sqlite&theme=dark&perline=8" alt="My Skills" />
+  </a>
+</div>
+
+<hr/>
+
 ### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=entorpecimiento&theme=radical&hide_border=true" alt="Streak Stats" />
-  
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=entorpecimiento&layout=compact&theme=radical&hide_border=true&langs_count=6&disable_animations=true" alt="Top Languages" />
 </div>
 
 <hr/>
