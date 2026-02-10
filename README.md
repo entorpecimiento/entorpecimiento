@@ -1,18 +1,18 @@
 <h1 align="center">Software Developer & Cybersecurity Student</h1>
 
-<div>
-  <img align="right" src="https://komarev.com/ghpvc/?username=entorpecimiento&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-</div>
+<p align="left">
+   <img align="right" src="https://komarev.com/ghpvc/?username=entorpecimiento&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
-<br clear="all" />
-<hr />
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+</p>
+
+<br/>
+<hr/>
 
 ### 👨‍💻 About Me
 <ul>
@@ -22,7 +22,7 @@
     <li>📱 Currently developing mobile solutions with <strong>Flutter</strong> and exploring enterprise-level architectures.</li>
 </ul>
 
-<hr />
+<hr/>
 
 ### ⚙️ DevOps & Security Roadmap
 <ul>
@@ -30,7 +30,7 @@
     <li>🛡️ <strong>DevSecOps:</strong> Integrating automated security testing into the development lifecycle.</li>
 </ul>
 
-<hr />
+<hr/>
 
 ### 📁 Featured Projects
 
@@ -54,23 +54,23 @@
     <li><strong><a href="https://github.com/entorpecimiento/java-beginner-loop-limit">Java Control Flow Logic</a>:</strong> Implementation for handling repetitive control flows.</li>
 </ul>
 
-<hr />
+<hr/>
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=entorpecimiento&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=1800" alt="General Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=entorpecimiento&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="General Stats" />
   
-  <br/> <br/>
+  <br/><br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=entorpecimiento&theme=radical&hide_border=true" alt="Streak Stats" />
   
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=entorpecimiento&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=entorpecimiento&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
-<hr />
+<hr/>
 
 ### 📫 Connect with me
 <ul>
