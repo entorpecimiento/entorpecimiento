@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 <ul>
-    <li>🎓 <strong>B.S. in Cybersecurity Student</strong> at <strong>UNAHUR</strong>, focused on building secure, scalable, and efficient software.</li>
+    <li>🎓 <strong>B.S. in Cybersecurity Student</strong> at <strong>UdeSA</strong>, focused on building secure, scalable, and efficient software.</li>
     <li>🛡️ <strong>Cybersecurity Enthusiast</strong> with a human-centered security mindset and a focus on secure coding practices.</li>
     <li>💻 Technical expertise in <strong>Java, PHP, JavaScript, HTML, and CSS</strong>.</li>
     <li>📱 Currently developing mobile solutions with <strong>Flutter</strong> and exploring enterprise-level architectures.</li>
