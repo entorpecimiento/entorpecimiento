@@ -1,121 +1,124 @@
-<h1 align="center">SOC Analyst L1 | Cybersecurity Student</h1>
-<h3 align="center">Threat Detection · Incident Triage · Security Operations</h3>
+<h1 align="center">🛡️ SOC Analyst L1 | Cybersecurity Student</h1>
+<h3 align="center">"Hunt. Detect. Learn. Evolve."</h3>
 
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=entorpecimiento&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/SOC-L1-FF6B00?style=flat-square" />
-  <img src="https://img.shields.io/badge/UdeSA-Cybersecurity-005571?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-0A7E8C?style=flat-square" />
+   <img src="https://komarev.com/ghpvc/?username=entorpecimiento&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+   <img src="https://img.shields.io/badge/SOC-L1-FF6B00?style=flat-square&logo=security&logoColor=white" />
+   <img src="https://img.shields.io/badge/Cybersecurity-Investigate-005571?style=flat-square&logo=security&logoColor=white" />
+   <img src="https://img.shields.io/badge/Blue_Team-Aspiring-0A7E8C?style=flat-square" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/SIEM-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/EDR-CrowdStrike-EE1B24?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Threat_Intelligence-MISP-005A9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Security-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 <hr/>
 
-<h3>👤 About Me</h3>
+### 👨‍💻 About Me
 
 <p>
-  I am an <strong>SOC Analyst L1</strong> with a strong interest in threat detection, incident response, and security operations. Currently pursuing a <strong>B.S. in Cybersecurity at Universidad de San Andrés (UdeSA)</strong>, I am focused on building a solid technical foundation in SIEM, EDR, and threat intelligence.
+  I am a <strong>SOC Analyst L1</strong> passionate about threat detection, incident triage, and building a strong foundation in cybersecurity operations. Currently pursuing my <strong>B.S. in Cybersecurity at UdeSA</strong> and actively looking for opportunities to grow as a security professional.
 </p>
 
-<p>
-  I am actively seeking opportunities to develop my skills in a professional security environment and contribute to effective defense operations.
-</p>
-
-<br/>
+<ul>
+    <li>🕵️‍♂️ <strong>Role:</strong> SOC Analyst L1 – Alert Triage, Initial Investigation, and Escalation.</li>
+    <li>🎓 <strong>B.S. in Cybersecurity Student</strong> at <strong>UdeSA</strong>.</li>
+    <li>🧠 <strong>Focus:</strong> Building expertise in SIEM, EDR, and threat intelligence.</li>
+    <li>🛡️ <strong>Passion:</strong> Understanding attacker behavior and improving detection capabilities.</li>
+    <li>💻 Technical skills: <strong>Python</strong> (security automation), <strong>Java</strong>, <strong>PHP</strong>, <strong>JavaScript</strong>, <strong>Flutter</strong>, <strong>NestJS</strong>.</li>
+    <li>🗣️ <strong>Motto:</strong> "Every alert is a learning opportunity."</li>
+</ul>
 
 <hr/>
 
-<h3>💼 Core Skills</h3>
+### 🧠 Core Competencies
 
 <table>
   <tr>
-    <td><strong>Security Operations</strong></td>
-    <td>Alert triage, log analysis, SIEM monitoring, escalation procedures</td>
+    <td><strong>🚨 Alert Triage</strong></td>
+    <td>Initial investigation, prioritization, and escalation of security alerts</td>
   </tr>
   <tr>
-    <td><strong>Threat Intelligence</strong></td>
-    <td>IOC enrichment, basic TTP mapping, threat research</td>
+    <td><strong>🔍 Log Analysis</strong></td>
+    <td>Reviewing system, network, and application logs for suspicious activity</td>
   </tr>
   <tr>
-    <td><strong>Development</strong></td>
-    <td>Python (automation), Java, PHP, JavaScript, Flutter, NestJS</td>
+    <td><strong>📈 SIEM Operations</strong></td>
+    <td>Monitoring dashboards, creating searches, and tuning alerts</td>
   </tr>
   <tr>
-    <td><strong>Tools</strong></td>
-    <td>Splunk, CrowdStrike, MISP, Docker, Git, Linux</td>
+    <td><strong>🧩 Threat Intelligence</strong></td>
+    <td>IOC enrichment, basic TTP mapping, and threat research</td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Security Automation</strong></td>
+    <td>Python scripting for log parsing and alert enrichment</td>
   </tr>
 </table>
 
-<br/>
+<hr/>
+
+### 🔐 Featured Projects
+
+<h4>🛡️ Security Tools</h4>
+<ul>
+    <li><strong><a href="https://github.com/entorpecimiento/ports-scanners">Network Port Scanners</a>:</strong> Socket-based TCP auditing tool.</li>
+    <li><strong><a href="https://github.com/entorpecimiento/hash-cracker">Hash Cracker</a>:</strong> Cryptographic reversal tool for SHA-256 (educational).</li>
+    <li><strong><a href="https://github.com/entorpecimiento/cryptopass-generator">Crypto Password Generator</a>:</strong> High-entropy secure password generator.</li>
+</ul>
+
+<h4>🌐 Full-Stack Projects</h4>
+<ul>
+    <li><strong><a href="https://github.com/entorpecimiento/fullstack-notes-app">Full-Stack Notes Manager</a>:</strong> NestJS + React SPA with SQLite persistence.</li>
+    <li><strong><a href="https://github.com/entorpecimiento/secure-pass-ui">Secure Pass UI</a>:</strong> Security-focused password generator – <a href="https://entorpecimiento.github.io/secure-pass-ui/">Live Demo</a>.</li>
+    <li><strong><a href="https://github.com/entorpecimiento/gameforcetournaments">GameForce Tournaments</a>:</strong> Gaming platform with user access control.</li>
+</ul>
+
+<h4>☕ Java Projects</h4>
+<ul>
+    <li><strong><a href="https://github.com/entorpecimiento/salary-Calculator-Java">Salary Calculator</a>:</strong> Java-based payroll automation module.</li>
+    <li><strong><a href="https://github.com/entorpecimiento/java-beginner-loop-limit">Java Control Flow Logic</a>:</strong> Loop handling implementation.</li>
+</ul>
 
 <hr/>
 
-<h3>📁 Projects</h3>
-
-<h4>Security Tools</h4>
-<ul>
-  <li><strong><a href="https://github.com/entorpecimiento/ports-scanners">Network Port Scanners</a></strong> – TCP socket-based auditing tool.</li>
-  <li><strong><a href="https://github.com/entorpecimiento/hash-cracker">Hash Cracker</a></strong> – SHA-256 reversal for educational purposes.</li>
-  <li><strong><a href="https://github.com/entorpecimiento/cryptopass-generator">Crypto Password Generator</a></strong> – High-entropy password generator.</li>
-</ul>
-
-<h4>Full-Stack Development</h4>
-<ul>
-  <li><strong><a href="https://github.com/entorpecimiento/fullstack-notes-app">Full-Stack Notes Manager</a></strong> – NestJS + React with SQLite.</li>
-  <li><strong><a href="https://github.com/entorpecimiento/secure-pass-ui">Secure Pass UI</a></strong> – Password generation tool (<a href="https://entorpecimiento.github.io/secure-pass-ui/">Live Demo</a>).</li>
-  <li><strong><a href="https://github.com/entorpecimiento/gameforcetournaments">GameForce Tournaments</a></strong> – Gaming platform with user access control.</li>
-</ul>
-
-<h4>Java</h4>
-<ul>
-  <li><strong><a href="https://github.com/entorpecimiento/salary-Calculator-Java">Salary Calculator</a></strong> – Payroll automation module.</li>
-  <li><strong><a href="https://github.com/entorpecimiento/java-beginner-loop-limit">Control Flow Logic</a></strong> – Loop handling implementation.</li>
-</ul>
-
-<br/>
+### 🛠️ Languages and Tools
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,dart,flutter,react,nestjs,docker,git,github,linux,vscode,sqlite&theme=dark&perline=8" alt="My Skills" />
+  </a>
+</div>
 
 <hr/>
 
-<h3>🛠️ Tech Stack</h3>
+### 📌 Certifications (In Progress)
+
+<ul>
+  <li>📌 <strong>CompTIA Security+</strong> – <em>In progress</em></li>
+  <li>📌 <strong>Splunk Core Certified User</strong> – <em>In progress</em></li>
+  <li>📌 <strong>CrowdStrike Falcon Administrator</strong> – <em>In progress</em></li>
+</ul>
+
+<hr/>
+
+### 📫 Connect with Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,dart,flutter,react,nestjs,docker,git,github,linux,vscode,sqlite&theme=dark&perline=8" />
+  <a href="https://github.com/entorpecimiento"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/entorpecimiento"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<br/>
-
-<hr/>
-
-<h3>📌 Certifications (In Progress)</h3>
-
-<ul>
-  <li>CompTIA Security+</li>
-  <li>Splunk Core Certified User</li>
-  <li>CrowdStrike Falcon Administrator</li>
-</ul>
-
-<br/>
-
-<hr/>
-
-<h3>📬 Contact</h3>
-
-<p>
-  <a href="https://github.com/entorpecimiento">GitHub</a> ·
-  <a href="https://twitter.com/entorpecimiento">Twitter</a>
+<p align="center">
+  <strong>📍 Buenos Aires, Argentina</strong>
 </p>
-
-<p>
-  📍 Buenos Aires, Argentina
-</p>
-
-<br/>
 
 <hr/>
 
 <p align="center">
-  <em>"Every alert is an opportunity to learn."</em>
+  <em>"Building security, one log at a time."</em>
 </p>
