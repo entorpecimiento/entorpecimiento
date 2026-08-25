@@ -114,7 +114,7 @@
 </p>
 
 <p align="center">
-  <strong>📍 Buenos Aires, Argentina</strong>
+  <strong>📍Argentina</strong>
 </p>
 
 <hr/>
