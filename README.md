@@ -120,7 +120,5 @@
 <hr/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Blue%20Team%20Mindset-ALWAYS%20ON-0A7E8C?style=for-the-badge" />
-  <br/>
-  <em>"Every alert is a step toward mastery."</em>
+  <em>"Building security, one log at a time."</em>
 </p>
