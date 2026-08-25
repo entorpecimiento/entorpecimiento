@@ -114,11 +114,20 @@
 </p>
 
 <p align="center">
-  <strong>📍 Buenos Aires, Argentina</strong>
+  <strong>📍 Argentina</strong>
 </p>
 
 <hr/>
 
+<br/><br/>
+
 <p align="center">
-  <em>"Building security, one log at a time."</em>
+  <strong>⚡ "Hunt what hides. Detect what lurks. Learn what matters." ⚡</strong>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-0A7E8C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Currently%20Learning-Threat%20Hunting-FF6B00?style=for-the-badge" />
 </p>
